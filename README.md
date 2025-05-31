@@ -31,14 +31,14 @@
 ## `$ whoami`
 
 ```bash
-# 창의적인 아이디어를 실현시키는 개발자
-const developer = {
-    name: "최인호",
-    location: "Busan, Korea",
-    code: ["Flutter", "Dart", "Node.js", "Python"],
-    focus: "Creative Solutions & Scalable Architecture",
-    philosophy: "Creativity meets functionality in every line of code"
-};
+╔══════════════════════════════════════════════════════════════╗
+║  🎯 Developer Profile                                        ║
+║                                                              ║
+║  Name: 최인호 (Choe Inho)          Location: 부산, 대한민국    ║
+║  Experience: 2년차 풀스택           Specialty: Flutter        ║
+║                                                              ║
+║  "창의적인 아이디어를 코드로 실현합니다"                        ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ## `$ tech-stack --verbose`
