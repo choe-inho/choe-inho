@@ -95,7 +95,7 @@ const developer = {
 [![TimeNet Android](https://img.shields.io/badge/TimeNet_Android-1a1a1a?style=for-the-badge&logo=google-play&logoColor=34A853)](https://play.google.com/store/apps/details?id=com.gtran.timenet2&hl=ko)
 [![TimeNet iOS](https://img.shields.io/badge/TimeNet_iOS-1a1a1a?style=for-the-badge&logo=app-store&logoColor=0D96F6)](https://apps.apple.com/kr/app/%ED%83%80%EC%9E%84%EB%84%A4%ED%8A%B8/id6737107364)
 
-**📱 타임넷 (TimeNet)** - 시간 관리 모바일 앱
+**📱 타임넷 (TimeNet)** - 스포츠 커뮤니티 모바일 앱
 *Flutter로 개발한 크로스 플랫폼 앱*
 
 </div>
